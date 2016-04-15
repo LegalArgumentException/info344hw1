@@ -1,0 +1,3 @@
+AJAX Search Button :
+
+I implemented a button that, when clicked, made an AJAX call to the database through the PHP. This allowed for asynchronous loading of data and refreshing of the page. To see this AJAX request you can look in the JavaScript file in the showPlayers function.
